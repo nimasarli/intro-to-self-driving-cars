@@ -1,4 +1,4 @@
-# intro-to-self-driving-cars
+# Introduction to Self-Driving Cars
 The goal of the project is to design longitudinal and lateral controllers for a vehicle on a race track. The track trajectory is given as triples of (x, y, speed).
 
 ## Longitudinal Controller
