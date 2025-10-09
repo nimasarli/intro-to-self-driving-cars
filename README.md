@@ -2,7 +2,7 @@
 The goal of the project is to design longitudinal and lateral controllers for a vehicle on a race track. The track trajectory is given as triples of (x, y, speed).
 
 ## Longitudinal Controller
-A high-level PID controller was designed that receives desired speed as input and outputs desired acceleration. A low-level controllerwhich requires engine dynamics and torque-speed curves was not designed for this project.
+A high-level PID controller was designed that receives desired speed as input and outputs desired acceleration. A low-level controller which requires engine dynamics and torque-speed curves was not designed for this project.
 Therefore, the acceleration output was directly taken as throttle/brake values. 
 
 ## Pure-Pursuit Lateral Controller 
